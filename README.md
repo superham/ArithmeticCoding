@@ -3,7 +3,7 @@
 ## How to Run
 * Download Project Jupyter from https://jupyter.org/
 * Download the Arithmetic_Coding_Jupyter.ipynb file from this repostory
-* Launch Project Jupyter and load the Arithmetic_Coding_Jupyter.ipynb file and run each cell. (Or run all)
+* Launch Project Jupyter and load the Arithmetic_Coding_Jupyter.ipynb file and run each cell. (You can also run all but there are many cells which check output for compression ratio/correct output/etc and can clutter your screen.)
 ---
 ## Example output
 Here is an example output of a compression and decompression of an 8 bytes sequence
