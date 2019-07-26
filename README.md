@@ -6,7 +6,8 @@
 * Launch Project Jupyter and load the Arithmetic_Coding_Jupyter.ipynb file and run each cell. (Or run all)
 ---
 ## Example output
-![Image of simple compression and decompression](https://imgur.com/a/AruygKt)
+Here is an example output of a compression and decompression of an 8 bytes sequence
+![Image of simple compression and decompression](https://i.imgur.com/9W8m5dv.png)
 ---
 ## Arithmetic Coding 101 
 
